@@ -12,7 +12,11 @@
 }
 
 .fav:hover{
+<<<<<<< HEAD
     background-color: green;
+=======
+    background-color: pink;
+>>>>>>> update-color
 }
 
 
